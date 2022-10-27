@@ -1,0 +1,23 @@
+{
+  "name": "hngi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topisteronyango/HNGI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topisteronyango/HNGI/issues"
+  },
+  "homepage": "https://github.com/topisteronyango/HNGI#readme",
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
